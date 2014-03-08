@@ -1,0 +1,16 @@
+{
+  "name": "javascripts",
+  "description": "start my app",
+  "repo": "kazupon/xxx",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "visionmedia/debug": "*"
+  },
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "local": [
+  ]
+}

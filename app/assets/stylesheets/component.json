@@ -1,0 +1,12 @@
+{
+  "name": "stylesheets",
+  "description": "start my app",
+  "repo": "kazupon/xxx",
+  "version": "0.0.0",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "styles": [
+    "main.css"
+  ]
+}
