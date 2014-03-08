@@ -2,13 +2,14 @@
 <html>
 <head>
   <title>CustomAssetBuildingSample</title>
-  <%= stylesheet_link_tag    "application", :media => "all" %>
-  <%= javascript_include_tag "application" %>
+  <%= stylesheet_link_tag "/build", :media => "all" %>
+  <%= javascript_include_tag "/build" %>
   <%= csrf_meta_tags %>
 </head>
 <body>
 
 <%= yield %>
 
+<script>require('javascripts');</script>
 </body>
 </html>
