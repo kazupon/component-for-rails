@@ -1,6 +1,6 @@
 {
-  "name": "rails-custom-assets-building-sample",
-  "description": "This rails app is sample that do use builder with Grunt or Gulp or Component, not use Asset Pipeline",
-  "paths": ["app/assets"],
+  "name": "component-for-rails",
+  "description": "This rails app is sample that use Component.",
+  "paths": ["app/components"],
   "local": ["javascripts", "stylesheets"]
 }

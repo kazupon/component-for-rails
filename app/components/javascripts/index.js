@@ -1,3 +1,3 @@
 var debug = require('debug')('javascripts');
 
-console.log('start app');
+debug('start app');
