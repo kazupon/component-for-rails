@@ -1,0 +1,25 @@
+{
+  "name": "custom-asset-building-sample",
+  "version": "0.0.0",
+  "description": "This rails app is sample that do use builder with Grunt or Gulp or Component, not use Asset Pipeline",
+  "main": "index.js",
+  "directories": {
+  },
+  "dependencies": {
+    "component": "~0.19.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kazupon/rails-custom-assets-building-sample.git"
+  },
+  "author": "kazupon",
+  "license": "MIL",
+  "bugs": {
+    "url": "https://github.com/kazupon/rails-custom-assets-building-sample/issues"
+  },
+  "homepage": "https://github.com/kazupon/rails-custom-assets-building-sample"
+}
